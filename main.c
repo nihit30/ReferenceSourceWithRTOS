@@ -54,6 +54,7 @@
     {
         bool ok;
         putsGraphicsLcd("Welcome to A-LPS");
+
         // Initialize hardware
         initHw();
 
