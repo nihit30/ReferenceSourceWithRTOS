@@ -1,20 +1,4 @@
-// RTOS Framework - Fall 2017
-// J Losh
-
-// Student Name: NIHIT BHAVSAR
-// TO DO: Add your name on this line.  Do not include your ID number.
-
-// References :
-// https://en.wikibooks.org/wiki/Embedded_Systems/RTOS_Implementation
-// https://en.wikibooks.org/wiki/Embedded_Control_Systems_Design/Real_Time_Operating_systems
-//
-
-// Submit only two .c files in an e-mail to me (not in a compressed file):
-// xx_rtos_coop.c   Single-file with cooperative version of your project
-// xx_rtos_prempt.c Single-file with premptive version of your project
-// (xx is a unique number that will be issued in class)
-// Please do not include .intvecs section in your code submissions
-// Please do not change any function names in this code or thread priorities
+// Credits : Dr. Jason Losh
 
 //-----------------------------------------------------------------------------
 // Hardware Target
